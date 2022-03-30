@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding reader response2B.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21a-104-memory-culture-forgetting-spring-2016/a29544c43c0c814a35839c70cce38fce_MIT21A_104S16_Response2B.pdf
 file_type: application/pdf
+parent_uid: c1fcea67-6e98-fa6a-0ec2-ec79468ee55c
 resourcetype: Document
 title: '21A.104S16 Memory, Culture, and Forgetting: Assignments - Student Example
   Reader Response 2B'
