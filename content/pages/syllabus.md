@@ -30,12 +30,69 @@ MIT's [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communi
 Grading Policy
 --------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-|  {{< br >}}{{< br >}} Discussion / Participation {{< br >}}{{< br >}} _Each student is expected to contribute to class discussions. Attendance at class is crucial given that this class meets only once a week_. {{< br >}}{{< br >}}  | 20% |
-| Reader Responses (4) | 20% |
-|  {{< br >}}{{< br >}} Midterm {{< br >}}{{< br >}} _The midterm will be cumulative and based on lectures, readings, and films. It is a closed book and articles, but open-notes exam_. {{< br >}}{{< br >}}  | 30% |
-| Final Paper | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Discussion / Participation
+
+_Each student is expected to contribute to class discussions. Attendance at class is crucial given that this class meets only once a week_.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reader Responses (4)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Midterm
+
+_The midterm will be cumulative and based on lectures, readings, and films. It is a closed book and articles, but open-notes exam_.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Paper
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For detailed information on the reader responses and the final paper, please see the [Assignments]({{< baseurl >}}/pages/assignments) section.
 
